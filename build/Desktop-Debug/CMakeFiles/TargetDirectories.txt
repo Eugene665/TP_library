@@ -1,0 +1,9 @@
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/TP_1.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/install.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/TP_1_autogen_timestamp_deps.dir
+/home/admin/TP_1/build/Desktop-Debug/CMakeFiles/TP_1_autogen.dir
